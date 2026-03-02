@@ -1,0 +1,15 @@
+<!DOCTYPE htlm>
+  <htlm>
+  <head>
+    <title>My Game Hub</title>
+  <link rel="stlylesheat" href="style.css">
+</head>
+<body>
+  <h1>🎮 My Game Hub</h1>
+
+  <div class="game-list">
+    <a href="clicker.htlm">Play Clicker Game</a>
+  </div>
+
+</body>
+</htlm>
